@@ -37,8 +37,8 @@ To build a full end-to-end data analytics pipeline that:
 | Tool/Language     | Purpose                      |
 |------------------|------------------------------|
 | **Python (Pandas, NumPy)** | Data wrangling & EDA      |
-| **SQL (via SQLite/PostgreSQL)** | Relational analysis & joins |
-| **Tableau / Power BI**     | Dashboard visualization   |
+| **SQL (MySQLWorkbench)** | Relational analysis & joins |
+| **Tableau**     | Dashboard visualization   |
 | **Jupyter Notebook**       | Development & documentation |
 
 ---
