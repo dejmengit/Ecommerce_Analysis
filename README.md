@@ -67,7 +67,7 @@ Files Used:
 
 ---
 
-## 📌 Key Insights (Example)
+## 📌 Key Insights
 
 - Northeast regions showed 12% longer average delivery times than the national mean.
 - Furniture and Electronics categories contributed to 60% of total shipping costs.
